@@ -1,0 +1,8 @@
+BoldAsFont=-1
+FontSmoothing=full
+FontHeight=10
+AllowBlinking=yes
+Font=Courier New
+CursorType=block
+BackgroundColour=40,40,40
+Term=xterm-256color
